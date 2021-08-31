@@ -1,8 +1,10 @@
-# Barba.js with GreenSock
+# Another streetphoto demo
 
-![Barba.js and GSAP](../assets/img_barba-js-gsap.png)
+[Barba.js and GSAP
 
 JavaScript page transitions using [Barba.js](https://barba.js.org/) and [GreenSock](https://greensock.com/?ref=7856eb).
+Based on [ihatetomatoes demos](https://ihatetomatoes.net)
+
 
 ## Build
 
