@@ -1,4 +1,4 @@
-# Barba.js with GreenSock
+# Another streetphoto demo
 
 [Barba.js and GSAP
 
